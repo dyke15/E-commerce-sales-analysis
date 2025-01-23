@@ -56,7 +56,7 @@ EDA involves exploring the sales data to answer key questions, such as:
 
 ### Recommendations
 
-- Implement targeted marketing campaigns to capitalize on seasonal fluctuations
+- Implement targeted marketing campaigns to capitalize on regions with low sales 
 - Develop loyalty programs to encourage customer retention
 - Optimize logistics and delivery processes to improve customer satisfaction
 
