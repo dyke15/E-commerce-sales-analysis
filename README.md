@@ -4,6 +4,8 @@
 This is data analysis project which aims to provide actionable insights that will help improve sales, customer retention,
 and operational efficiency. by analyzing various aspect of the sales data we seek to analyze historical data, uncover trends, and provide recommendations for strategic improvements
 ![project dashboard1](https://github.com/user-attachments/assets/64a67667-ea22-4097-884e-792e49fa310f)
+
+
 ![project dashboard2](https://github.com/user-attachments/assets/12ced1ab-88d9-4ac7-ba79-7c67afe82ac4)
 
 ### Data Source 
@@ -47,8 +49,8 @@ EDA involves exploring the sales data to answer key questions, such as:
 
 ### Key Findings
 
-- Sales trend analysis: identified seasonal fluctuations in sales
-- Customer retention analysis: found that 20% of customers return within 3 months
+- Sales trend analysis: identified seasonal increase in sales over the year
+- Customer retention analysis: found that 20% of customers return within 1 year
 - Geographical analysis: identified regions with high and low sales performance
 - Delivery analysis: found that delayed deliveries negatively impact customer satisfaction
 
