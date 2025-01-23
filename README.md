@@ -10,7 +10,7 @@ Sales Data: the primary dataset use for this analysis is the "ecommerce data.xls
 
 ### Tools 
 
-- Excel - Data cleaning[download here]()
+- Excel - Data cleaning
 - SQL Server - Data analysis/manipulation
 - PowerBi - Creating reports
 
@@ -42,7 +42,41 @@ EDA involves exploring the sales data to answer key questions, such as:
   
 9. Discover which segments show the most interest in specific products or categories.
 
-### Data Analysis
+
+### Key Findings
+
+- Sales trend analysis: identified seasonal fluctuations in sales
+- Customer retention analysis: found that 20% of customers return within 3 months
+- Geographical analysis: identified regions with high and low sales performance
+- Delivery analysis: found that delayed deliveries negatively impact customer satisfaction
+
+### Recommendations
+
+- Implement targeted marketing campaigns to capitalize on seasonal fluctuations
+- Develop loyalty programs to encourage customer retention
+- Optimize logistics and delivery processes to improve customer satisfaction
+
+### Code and Resources
+
+- Power BI report:
+- Data sources: [excel file link](https://1drv.ms/x/c/47afce29a43ca21e/EfH7ZQQ4UK5PuDEQT_PDi_IBsahP01jBpwzLV0okn-UK1A)
+
+### Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+### License
+
+This project is licensed under the internPulse cohort6.
+
+### Acknowledgments
+
+- [dike chukwuebuka ekene] for leading the project
+- [Eseroghen] for contributing to the project
+
+  ### References
+  - [stack overflow](https://stack.com)
+  - [Her data project](https://youtu.be/0N9xekdKCwk)
 
 
 
